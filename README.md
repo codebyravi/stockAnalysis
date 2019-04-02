@@ -28,3 +28,7 @@ python backtesting.py
 python current_data.py
 
 python stock_prediction.py
+
+To run the tests:
+
+pytest -v
