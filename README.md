@@ -1,7 +1,8 @@
 # stockAnalysis
+
 This project predicts which stocks will outperform.
 
-git clone git@github.com:ravivalluri/stockAnalysis.git
+git clone git@github.com:codebyravi/stockAnalysis.git
 
 cd stockAnalysis
 
